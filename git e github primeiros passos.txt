@@ -1,0 +1,23 @@
+git 
+
+Configurações iniciais: 
+
+git config --global user.name "seu nome"
+git config --global user.email "seu email github"
+
+- [] (check) 
+
+comandos básicos:
+
+clear  -->  limpar a tela
+
+pwd    -->  exibir o diretório atual
+
+
+
+clonando um repositório:
+
+git clone "url do repositório"
+
+Atualizando um repositório clonado:
+git pull
